@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AgeInMinutes</string>
+    <string name="select_dob">Select dob</string>
+    <string name="_10_08_1998">10/08/1998</string>
+    <string name="minutes">Minutes</string>
+    <string name="age">Age</string>
+    <string name="converter_your">Converter your</string>
+    <string name="inminutes">InMinutes</string>
+</resources>
